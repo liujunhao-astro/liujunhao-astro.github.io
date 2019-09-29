@@ -19,7 +19,7 @@ Education
 
 Research experience
 ======
-* Aug 2018 - Present: Pre-doctoral Fellow at Center for Astrophysics \| Harvard \& Smithsonian
+* Aug 2018 - Present: Pre-doctoral Fellow at Center for Astrophysics \| Harvard & Smithsonian
   * Supervisor: Dr. Qizhou Zhang
 
   

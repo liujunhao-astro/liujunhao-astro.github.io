@@ -14,5 +14,6 @@ I'm a PhD candidate at [School of Astronomy & Space Science, Nanjing University]
 
 My research interests focus on the physical phenomena associated with the star formation process in our Galaxy. I mainly use mm/sub-mm observations from CSO, APEX, JCMT, SMA, and ALMA to investigate the role of molecular outflows and magnetic fields (B fields) from clump scales (~1 pc) down to condensation scales (~0.01 pc). Besides, I'm also learning to use results of MHD simulations to explore the applicability of different modified Davis–Chandrasekhar–Fermi methods in deriving the magnetic field strength in high-density star-forming regions.
 
-#![](/images/IMG_20180906_143034.jpg)
-
+<p align="center">
+  <img src="https://ljh41.github.io/images/junhao_office.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
