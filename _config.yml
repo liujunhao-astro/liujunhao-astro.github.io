@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junhao Liu (刘峻豪)"
+title                    : "Junhao Liu"
 title_separator          : "-"
-name                     : &name "刘峻豪"
+name                     : &name "Junhao Liu"
 description              : &description "PhD candidate at Nanjing University. Pre-doctoral fellow at Center for Astrophysics | Harvard & Smithsonian "
 url                      : https://ljh41.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
