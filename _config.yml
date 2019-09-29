@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junhao Liu"
+title                    : "Junhao Liu (刘峻豪)"
 title_separator          : "-"
 name                     : &name "刘峻豪"
 description              : &description "PhD candidate at Nanjing University. Pre-doctoral fellow at Center for Astrophysics | Harvard & Smithsonian "
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Junhao Liu (刘峻豪)"
-  avatar           : "IMG_20180906_143034.jpg"
+  avatar           : "WechatIMG47.png"
   bio              : "PhD candidate at School of Astronomy & Space Science, Nanjing University. Pre-doctoral fellow at Center for Astrophysics | Harvard & Smithsonian"
   location         : "Nanjing, China"
   employer         :
