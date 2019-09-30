@@ -7,10 +7,10 @@ author_profile: true
 
 Magnetic fields in IRDC G28.34 (In prep. )
 ======
-With ALMA observations of the 1.3 mm polarized emission of dust continuum in three massive molecular clumps (~1 pc) MM1, MM4, and MM9 in IRDC G28.34+0.06, I investigated the role of B fields in the early stage of massive star formation. I also compared the outflow axis with the B field orientation in the condensation (~0.01 pc) from which outflows originate. In addition, I applied the original DCF method and the ACF method on  simulated ALMA observations of 3D MHD simulations of massive star formation (made with RAMSES and POLARIS) to better understand the applicability of the DCF method on high-density and highly dynamic star-forming regions. 
+With ALMA observations of the 1.3 mm polarized emission of dust continuum in three massive molecular clumps (~1 pc) MM1, MM4, and MM9 in IRDC G28.34+0.06, I investigated the role of B fields in the early stage of massive star formation. I also compared the outflow axis with the B field orientation in the condensation (~0.01 pc) from which outflows originate. In addition, I applied the original DCF method and the ACF method on  simulated ALMA observations of 3D MHD simulations of massive star formation (made with RAMSES and POLARIS. RAMSES simulations adopted from [Fontani et al. 2018](https://ui.adsabs.harvard.edu/abs/2018A%26A...615A..94F/abstract)) to better understand the applicability of the DCF method on high-density and highly dynamic star-forming regions. 
 
 ![MM1 LIC map](/images/MM1_lic.png)
-Figure 1. Line integral convolution map indicating the magnetic field orientation in G28 MM1. Black contours indicate polarization detections with SNR>2. Colors outside the black contour don't have scientific implication.
+Figure 1. Line integral convolution map indicating the magnetic field orientation in G28 MM1. Black contours indicate polarization detections with SNR>2. Colors outside the black contour don't have scientific implications.
 
 ![MM1 Sigma map](/images/MM1_Sigma.png)
 Figure 2.  $\Sigma_B$ map, which quantifies the significance of the magnetic field force compared to the other forces ([Koch et al. 2012]( https://ui.adsabs.harvard.edu/abs/2012ApJ...747...79K/abstract)).
