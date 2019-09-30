@@ -11,6 +11,10 @@ redirect_from:
 
 [Click here to download a pdf version](/files/Liu_Junhao_CV.pdf)
 
+Publications
+======
+[ADS library](https://ui.adsabs.harvard.edu/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
+
 Education
 ======
 * 2015.09 - Present: Ph.D. at Astrophysics, School of Astronomy & Space Science, Nanjing University. Supervisor: Prof. Keping Qiu
@@ -21,7 +25,5 @@ Research experience
 * 2018.08 - Present: Pre-doctoral Fellow at Center for Astrophysics \| Harvard & Smithsonian. Supervisor: Dr. Qizhou Zhang
 
   
-Publications
-======
-[ADS link](https://ui.adsabs.harvard.edu/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
+
 
