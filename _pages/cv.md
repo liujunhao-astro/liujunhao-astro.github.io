@@ -13,12 +13,12 @@ redirect_from:
 
 Education
 ======
-* Sep 2015 - Present: Ph.D. at Astrophysics, School of Astronomy & Space Science, Nanjing University. Supervisor: Prof. Keping Qiu
-* Sep 2011 - Jun 2015: B.S. in in Astrophysics, School of Astronomy & Space Science, Nanjing University
+* 2015.09 - Present: Ph.D. at Astrophysics, School of Astronomy & Space Science, Nanjing University. Supervisor: Prof. Keping Qiu
+* 2011.09 - 2015.06: B.S. in in Astrophysics, School of Astronomy & Space Science, Nanjing University
 
 Research experience
 ======
-* Aug 2018 - Present: Pre-doctoral Fellow at Center for Astrophysics \| Harvard & Smithsonian. Supervisor: Dr. Qizhou Zhang
+* 2018.08 - Present: Pre-doctoral Fellow at Center for Astrophysics \| Harvard & Smithsonian. Supervisor: Dr. Qizhou Zhang
 
   
 Publications
