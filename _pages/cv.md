@@ -17,7 +17,7 @@ Publications
 
 Education
 ======
-* 2015.09 - Present: Ph.D. at Astrophysics, School of Astronomy & Space Science, Nanjing University. Supervisor: Prof. Keping Qiu
+* 2015.09 - 2020.09 (expected): Ph.D. at Astrophysics, School of Astronomy & Space Science, Nanjing University. Supervisor: Prof. Keping Qiu
 * 2011.09 - 2015.06: B.S. in in Astrophysics, School of Astronomy & Space Science, Nanjing University
 
 Research experience
