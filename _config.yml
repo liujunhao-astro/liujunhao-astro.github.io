@@ -10,7 +10,7 @@ locale                   : "utf-8"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Junhao Liu"
-description              : &description "PhD candidate at Nanjing University. Pre-doctoral fellow at Center for Astrophysics | Harvard & Smithsonian "
+description              : &description "Postdoctoral Fellow. East Asian Observatory"
 url                      : https://ljh41.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ljh41.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Junhao Liu"
-  avatar           : "junhao_paint.png"
-  bio              : "PhD candidate, Nanjing University. Pre-doctoral fellow, CfA | Harvard & Smithsonian"
-  location         : "Chongqing, China"
+  avatar           : "junhao_paint1.png"
+  bio              : "Postdoctoral Fellow. East Asian Observatory"
+  location         : "Hilo, HI, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qh8Nq_MAAAAJ&hl=en"

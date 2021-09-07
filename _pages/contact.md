@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 ---
-Address: 163 Xianlin Avenue, Nanjing, Jiangsu 210023, People's Republic of China
 
-Email: liujh@smail.nju.edu.cn
+Email: liujunhao42@outlook.com, liujh@smail.nju.edu.cn, j.liu@eaobservatory.org
 
 Skype: liujh4142
 

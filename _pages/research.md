@@ -5,23 +5,31 @@ permalink: /research/
 author_profile: true
 ---
 
-Magnetic fields in IRDC G28.34 (In prep. )
+Calibrating the Davis-Chandrasekhar-Fermi method with numerical simulations
 ======
-With ALMA observations of the 1.3 mm polarized emission of dust continuum in three massive molecular clumps (~1 pc) MM1, MM4, and MM9 in IRDC G28.34+0.06, I investigated the role of B fields in the early stage of massive star formation. I also compared the outflow axis with the B field orientation in the condensation (~0.01 pc) from which outflows originate. In addition, I applied the original DCF method and the ACF method on simulated ALMA observations of 3D MHD simulations of massive star formation (made with RAMSES and POLARIS. RAMSES simulations adopted from [Fontani et al. 2018](https://ui.adsabs.harvard.edu/abs/2018A%26A...615A..94F/abstract)) to better understand the applicability of the DCF method on high-density and highly dynamic star-forming regions. 
 
-![MM1 LIC map](/images/MM1_lic.png)
-Figure 1. Line integral convolution map indicating the magnetic field orientation in G28 MM1. Black contours indicate polarization detections with SNR>2. Colors outside the black contour don't have scientific implications.
+I applied the DCF methods on simulated 3D MHD and radiative transfer simulations of massive star formation (made with RAMSES and POLARIS) to better understand the applicability of the DCF method on small-scale and high-density star-forming regions with significant gravity. 
 
-![MM1 Sigma map](/images/MM1_Sigma.png)
-Figure 2.  $\Sigma_B$ map, which quantifies the significance of the magnetic field force compared to the other forces ([Koch et al. 2012]( https://ui.adsabs.harvard.edu/abs/2012ApJ...747...79K/abstract)).
+![Simulation map](/images/Simu_LIC.png)
+Figure 1. Line integral convolution map shows an example of the synthetic polarization image of our simulations. 
+
+
+Magnetic fields in 3 massive clumps in IRDC G28.34 ([ADS link]( https://ui.adsabs.harvard.edu/abs/2020ApJ...895..142L/abstract))
+======
+With ALMA observations of the 1.3 mm polarized emission of the dust continuum in three massive molecular clumps (~1 pc) MM1, MM4, and MM9 in IRDC G28.34+0.06, I investigated the role of B fields in the early stage of massive star formation. Using the angular dispersion function method (a modified DCF method), the plane-of-sky magnetic field strength in two massive dense cores, MM1-Core1 and MM4-Core4, are estimated to be ~1.6 mG and ~0.32 mG, respectively. The total virial parameters in MM1-Core1 and MM4-Core4 are calculated to be $\sim$0.76 and $\sim$0.37, respectively, suggesting that massive star formation does not start in equilibrium. Half of the outflows in MM4 and MM9 are found to be aligned within 10$^{circ}$ of the condensation-scale (<0.05 pc) magnetic field, indicating that the magnetic field could play an important role from condensation to disk scale in the early stage of massive star formation.
+
+![MM1 B map](/images/MM1B.png)
+Figure 1. Magnetic field vectors overlaid on ALMA 1.3 mm dust continuum maps for MM1. Red and cyan vectors correspond to data with P/DP>2 and P/DP>3, respectively.
+
+![MM4 B map](/images/MM4B.png)
+Figure 2. Magnetic field vectors overlaid on ALMA 1.3 mm dust continuum maps for MM4. Red and cyan vectors correspond to data with P/DP>2 and P/DP>3, respectively.
+
+![MM9 B map](/images/MM9B.png)
+Figure 3. Magnetic field vectors overlaid on ALMA 1.3 mm dust continuum maps for MM9. Red and cyan vectors correspond to data with P/DP>2 and P/DP>3, respectively.
 
 ![MM4 outflow map](/images/MM4_B.png)
 Figure 3. Comparison of the outflow axis with the magnetic field orientation in G28 MM4.
 
-<p align="center">
-<img src="/images/Bcomp0.png?raw=true" alt="DCF on simulation" style="width: 480px;"/> 
-</p>
-Figure 4. Magnetic field strength of simulated observations derived from the original DCF method and the ACF method VS. magnetic field strength in simulation.
 
 
 Magnetic fields in the low-mass starless core Ophiuchus C ([ADS link]( https://ui.adsabs.harvard.edu/abs/2019ApJ...877...43L/abstract))
