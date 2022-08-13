@@ -10,7 +10,7 @@ locale                   : "utf-8"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Junhao Liu"
-description              : &description "Postdoctoral Fellow. East Asian Observatory"
+description              : &description "EAO Fellow. East Asian Observatory"
 url                      : https://ljh41.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ljh41.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Junhao Liu"
   avatar           : "junhao_paint1.jpeg"
-  bio              : "Postdoctoral Fellow. East Asian Observatory"
+  bio              : "EAO Fellow. East Asian Observatory"
   location         : "Hilo, HI, US"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ljh41"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
