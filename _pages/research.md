@@ -43,17 +43,17 @@ The two major massive star formation theories have contradictory predictions on 
 I investigated the role of B fields in three massive molecular clumps (~1 pc) MM1, MM4, and MM9 in the IRDC G28.34+0.06 with ALMA dust polarization observations. The total virial parameters (including magnetic support) in two massive dense cores, MM1-Core1 and MM4-Core4, are found to be $\sim$0.76 and $\sim$0.37, respectively, suggesting that massive star formation does not start in equilibrium. Half of the outflows in MM4 and MM9 are found to be aligned within 10$^{\circ}$ of the condensation-scale ($<$0.05 pc) magnetic field, indicating that the magnetic field could play an important role from condensation to disk scale in the early stage of massive star formation.
 
 <p align="center">
-  <img src="/images/MM1B.png?raw=true" alt="Photo" style="width: 480px;"/> 
+  <img src="/images/MM1B.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 Magnetic field vectors overlaid on ALMA 1.3 mm dust continuum maps for MM1. Red and cyan vectors correspond to data with P/DP>2 and P/DP>3, respectively.
 
 <p align="center">
-  <img src="/images/MM4B.png?raw=true" alt="Photo" style="width: 480px;"/> 
+  <img src="/images/MM4B.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 Same but for MM4.
 
 <p align="center">
-  <img src="/images/MM4_B.png?raw=true" alt="Photo" style="width: 540px;"/> 
+  <img src="/images/MM4_B.png?raw=true" alt="Photo" style="width: 480px;"/> 
 </p>
 Comparison betwee the outflow axis and the magnetic field orientation in G28 MM4.
 
@@ -66,12 +66,12 @@ The role of magnetic fields in early stages of low-mass star formation also rema
 </p>
 Magnetic field orientations overlaid on JCMT 850 $\mu$m total intensity maps. Yellow and cyan vectors correspond to P/DP>2 and P/DP>3, respectively.
 
-### The driving mechanism of an isothermal massive outflow ([ADS link]( https://ui.adsabs.harvard.edu/abs/2018ApJ...860..106L/abstract ))
+### The driving mechanism of an isothermal massive outflow ([Liu et al. 2018]( https://ui.adsabs.harvard.edu/abs/2018ApJ...860..106L/abstract ))
 
 Molecular outflows are a common phenomenon associated with young stellar objects (YSOs) of all masses, but their driving mechanism remains unclear. Using CSO, APEX, and SMA observations, I performed a multi-transition CO (J=2-1, 3-2, 6-5, and 7-6 ) analysis of the outflowing gas associated with the massive UC HII region G240.31+0.07. With large velocity gradient (LVG) calculations (using the radiative transfer code [RADEX](https://home.strw.leidenuniv.nl/~moldata/radex.html)), I found that the outflow is approximately isothermal with a gas temperature of ∼50 K and that the CO column density clearly decreases with the outflow velocity, which indicates the massive outflow is being driven by a wide-angle protostellar wind. 
 
 <p align="center">
-  <img src="/images/G240_contour.png?raw=true" alt="Photo" style="width: 540px;"/> 
+  <img src="/images/G240_contour.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 Low-velocity (LV) and High-velocity (HV) integrations of CO J=2-1, 3-2, 6-5, and 7-6 emissions.
 
