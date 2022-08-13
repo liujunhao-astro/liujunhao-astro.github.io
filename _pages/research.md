@@ -20,7 +20,7 @@ With 3D magneto-hydrodynamic (MHD) and radiative transfer simulations (made with
 - The Angular Dispersion Function (ADF) method (a modified DCF method, [Hildebrand et al. 2009]( https://ui.adsabs.harvard.edu/abs/2009ApJ...696..567H/abstract), [Houde et al. 2009]( https://ui.adsabs.harvard.edu/abs/2009ApJ...706.1504H/abstract), and [Houde et al. 2016]( https://ui.adsabs.harvard.edu/abs/2016ApJ...820...38H/abstract)) correctly accounts for the ordered field structure, the beam-smoothing effect, and the interferometric filtering effect, but might not work well for the effect of line-of-sight (LOS) signal integration. 
 
 <p align="center">
-  <img src="/images/Simu_LIC.png?raw=true" alt="Photo" style="width: 360px;"/> 
+  <img src="/images/Simu_LIC.png?raw=true" alt="Photo" style="width: 480px;"/> 
 </p>
 An example of the synthetic observation of our simulations. Line integral convolution map shows the magnetic field orientation. Colorscales indicate the dust emission. 
 
@@ -32,7 +32,7 @@ Despite the increasing number of observational studies of magnetic fields in mol
 - The average state of the clumps/cores is trans-to-super-Alfv\'{e}nic, which may indicate the gas is accelerated by the gravity. 
 
 <p align="center">
-  <img src="/images/lambBtot_Ncol_instru0_method0.png?raw=true" alt="Photo" style="width: 360px;"/> 
+  <img src="/images/lambBtot_Ncol_instru0_method0.png?raw=true" alt="Photo" style="width: 540px;"/> 
 </p>
 Mass-to-flux ratio in units of critical value as a function of gas column density. 
 
@@ -43,17 +43,17 @@ The two major massive star formation theories have contradictory predictions on 
 I investigated the role of B fields in three massive molecular clumps (~1 pc) MM1, MM4, and MM9 in the IRDC G28.34+0.06 with ALMA dust polarization observations. The total virial parameters (including magnetic support) in two massive dense cores, MM1-Core1 and MM4-Core4, are found to be $\sim$0.76 and $\sim$0.37, respectively, suggesting that massive star formation does not start in equilibrium. Half of the outflows in MM4 and MM9 are found to be aligned within 10$^{\circ}$ of the condensation-scale ($<$0.05 pc) magnetic field, indicating that the magnetic field could play an important role from condensation to disk scale in the early stage of massive star formation.
 
 <p align="center">
-  <img src="/images/MM1B.png?raw=true" alt="Photo" style="width: 360px;"/> 
+  <img src="/images/MM1B.png?raw=true" alt="Photo" style="width: 480px;"/> 
 </p>
 Magnetic field vectors overlaid on ALMA 1.3 mm dust continuum maps for MM1. Red and cyan vectors correspond to data with P/DP>2 and P/DP>3, respectively.
 
 <p align="center">
-  <img src="/images/MM4B.png?raw=true" alt="Photo" style="width: 360px;"/> 
+  <img src="/images/MM4B.png?raw=true" alt="Photo" style="width: 480px;"/> 
 </p>
 Same but for MM4.
 
 <p align="center">
-  <img src="/images/MM4_B.png?raw=true" alt="Photo" style="width: 360px;"/> 
+  <img src="/images/MM4_B.png?raw=true" alt="Photo" style="width: 540px;"/> 
 </p>
 Comparison betwee the outflow axis and the magnetic field orientation in G28 MM4.
 
@@ -62,7 +62,7 @@ Comparison betwee the outflow axis and the magnetic field orientation in G28 MM4
 The role of magnetic fields in early stages of low-mass star formation also remains mysterious due to the lack of direct observations. As part of the JCMT large program B-fields in STar-forming Region Observations ([BISTRO](https://www.eaobservatory.org/jcmt/science/large-programs/gb_bfields/)), I investigated the role of B field in the low-mass starless dense core Oph-C. I estimated the plane-of-sky field strength (Bpos) using modified DCF methods based on [structure function (SF, Hildebrand et al. 2009)]( https://ui.adsabs.harvard.edu/abs/2009ApJ...696..567H/abstract), [autocorrelation function (ACF, Houde et al. 2009)]( https://ui.adsabs.harvard.edu/abs/2009ApJ...706.1504H/abstract), and [unsharp masking (Pattle et al. 2017)]( https://ui.adsabs.harvard.edu/abs/2017ApJ...846..122P/abstract) analyses. The calculations yield Bpos of 0.1~0.2 mG and a mass-to-flux-ratio greater than its critical value, suggesting that a low-mass starless core has already begun to collapse. 
 
 <p align="center">
-  <img src="/images/map_gbs_ophc.png?raw=true" alt="Photo" style="width: 360px;"/> 
+  <img src="/images/map_gbs_ophc.png?raw=true" alt="Photo" style="width: 540px;"/> 
 </p>
 Magnetic field orientations overlaid on JCMT 850 $\mu$m total intensity maps. Yellow and cyan vectors correspond to P/DP>2 and P/DP>3, respectively.
 
@@ -71,7 +71,7 @@ Magnetic field orientations overlaid on JCMT 850 $\mu$m total intensity maps. Ye
 Molecular outflows are a common phenomenon associated with young stellar objects (YSOs) of all masses, but their driving mechanism remains unclear. Using CSO, APEX, and SMA observations, I performed a multi-transition CO (J=2-1, 3-2, 6-5, and 7-6 ) analysis of the outflowing gas associated with the massive UC HII region G240.31+0.07. With large velocity gradient (LVG) calculations (using the radiative transfer code [RADEX](https://home.strw.leidenuniv.nl/~moldata/radex.html)), I found that the outflow is approximately isothermal with a gas temperature of ∼50 K and that the CO column density clearly decreases with the outflow velocity, which indicates the massive outflow is being driven by a wide-angle protostellar wind. 
 
 <p align="center">
-  <img src="/images/G240_contour.png?raw=true" alt="Photo" style="width: 360px;"/> 
+  <img src="/images/G240_contour.png?raw=true" alt="Photo" style="width: 540px;"/> 
 </p>
 Low-velocity (LV) and High-velocity (HV) integrations of CO J=2-1, 3-2, 6-5, and 7-6 emissions.
 

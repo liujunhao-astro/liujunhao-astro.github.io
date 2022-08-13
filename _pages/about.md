@@ -13,7 +13,5 @@ I have been an EAO fellow (post-doctoral) at the [East Asian Observatory (EAO)](
 My research interests focus on studying the role of magnetic fields in star formation, especially in the early stage, with polarized dust emission observations using mm/submm single-dish telescopes and telescope arrays (e.g., [JCMT](http://www.eaobservatory.org/jcmt/), [SMA](http://sma1.sma.hawaii.edu/), [ALMA](https://almascience.nrao.edu/)). The main goals of my research are: 1) numerically calibrating the statistical methods used to assess the role of magnetic fields; 2) applying these methods on dust polarization maps of star-forming regions and quantitatively assessing the relative importance of the magnetic field compared to gravity and turbulence at different scales; 3) addressing the dynamical role of magnetic fields in the fragmentation and collapse of dense clumps and cores.
 
 <p align="center">
-  <img src="/images/junhao_paris.jpeg?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="/images/junhao_paris.jpeg?raw=true" alt="Photo" style="width: 360px;"/> 
 </p>
-
-(Updated on August 2022)
