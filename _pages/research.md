@@ -40,28 +40,26 @@ Despite the increasing number of observational studies of magnetic fields in mol
 </p>
 Mass-to-flux ratio in units of critical value as a function of gas column density. 
 
-###A synergistic relative orientation analysis in Massive star-forming region NGC 6334
+### A synergistic relative orientation analysis in Massive star-forming region NGC 6334
 
 The development of statistical techniques (Koch et al. 2012, Soler et al. 2013, Gonza´lez-Casanova \& Lazarian, 2017) has made it possible to infer the physical properties of star formation regions by comparing the magnetic field orientation ($\theta_{\mathrm{B}}$) with other orientations (e.g., the column density gradient $\theta_{\mathrm{NG}}$, the direction of local gravity $\theta_{\mathrm{LG}}$, and the velocity gradient $\theta_{\mathrm{VG}}$) that can be obtained through astronomical observations. We experimentally perform a synergistic analysis combining these techniques using relative orientations between different angles to reveal the multi-scale (from $\sim$30 pc to 0.003 pc scales) physical conditions in the massive star-forming complex NGC 6334 with Planck, NANTEN2, JCMT, and ALMA dust polarization and molecular line observations. We find that the relative orientation between $\theta_{\mathrm{B}}$ and $\theta_{\mathrm{NG}}$ changes from statistically more perpendicular to parallel as column density ($N_{\mathrm{H_2}}$) increases, which is a signature of trans-to-sub-Alfv\'{e}nic turbulence at complex/cloud scales as revealed by previous numerical studies. Because $\theta_{\mathrm{NG}}$ and $\theta_{\mathrm{LG}}$ are preferentially aligned within the NGC 6334 cloud, we suggest that the more parallel alignment between $\theta_{\mathrm{B}}$ and $\theta_{\mathrm{NG}}$ at higher $N_{\mathrm{H_2}}$ is because the magnetic field line is dragged by gravity. At even higher $N_{\mathrm{H_2}}$, the angle between $\theta_{\mathrm{B}}$ and $\theta_{\mathrm{NG}}$ or $\theta_{\mathrm{LG}}$ transits back to having no preferred orientation or statistically slightly more perpendicular, suggesting that the magnetic field structure is impacted by star formation activities. A statistically more perpendicular alignment is found between $\theta_{\mathrm{B}}$ and $\theta_{\mathrm{VG}}$ throughout our studied $N_{\mathrm{H_2}}$ range, which indicates a trans-to-sub-Alfv\'{e}nic state at small scales as well and signifies an important role of magnetic field in the star formation process in NGC 6334.
 
-<p align="left">
-  <img src="/images/N6334_gnilc_B_equj.png?raw=true" alt="Photo" style="width: 300px;"/> 
-</p>
-<p align="right">
-  <img src="/images/jcmt_N6334_B.png?raw=true" alt="Photo" style="width: 300px;"/> 
+<p align="center">
+  <img src="/images/N6334_gnilc_B_equj.png?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="/images/jcmt_N6334_B.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 <p align="center">
   <img src="/images/N6334In_cb_mk_B.png?raw=true" alt="Photo" style="width: 400px;"/> 
   <img src="/images/N6334I_cb_mk_B.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
-<p align="center">
-  <img src="/images/N6334IV_cb_mk_B.png?raw=true" alt="Photo" style="width: 400px;"/> 
-</p>
-<p align="center">
-  <img src="/images/N6334V_cb_mk_B.png?raw=true" alt="Photo" style="width: 400px;"/> 
-</p>
+Magnetic field orientations (line segments) overlaid on the dust emission map (colorscales) in NGC 6334 from Planck, JCMT, and ALMA observations.
 
-Magnetic field orientations (line segments) overlaid on the dust emission map (colorscales) in NGC 6334.
+<p align="center">
+  <img src="/images/A_N6334_omega_am_planck.png?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="/images/A_N6334_omega_am_jcmt.png?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="/images/A_N6334_omega_am_alma.png?raw=true" alt="Photo" style="width: 300px;"/> 
+</p>
+Relative orientations (characterized by the alignment measure $AM$) between magnetic field (B) and local gravity (LG) as a function of column density for Planck, JCMT, and ALMA observations.
 
 ### Initial condition of massive star formation: Magnetic fields in 3 massive clumps in IRDC G28.34 ([Liu et al. 2020]( https://ui.adsabs.harvard.edu/abs/2020ApJ...895..142L/abstract))
 
@@ -71,13 +69,10 @@ I investigated the role of B fields in three massive molecular clumps (~1 pc) MM
 
 <p align="center">
   <img src="/images/MM1B.png?raw=true" alt="Photo" style="width: 400px;"/> 
-</p>
-Magnetic field vectors overlaid on ALMA 1.3 mm dust continuum maps for MM1. Red and cyan vectors correspond to data with P/DP>2 and P/DP>3, respectively.
-
-<p align="center">
   <img src="/images/MM4B.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
-Same but for MM4.
+Magnetic field vectors overlaid on ALMA 1.3 mm dust continuum maps for MM1 and MM4 in IRDC G28.34. Red and cyan vectors correspond to data with P/DP>2 and P/DP>3, respectively.
+
 
 <p align="center">
   <img src="/images/MM4_B.png?raw=true" alt="Photo" style="width: 480px;"/> 
