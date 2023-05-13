@@ -18,7 +18,7 @@ redirect_from:
 [ADS library (First-author)/ADS文章列表(第一作者)](https://ui.adsabs.harvard.edu/public-libraries/BHaOyBG7Q-C6tUacIfbv3Q)
 
 ### Employment/工作经历
-* 2021.06 - 2023.07 (expected): EAO Fellow (post-doctoral) at East Asian Observatory (EAO), Hilo, Hawaii, USA. EAO博士后学者，东亚天文台，美国夏威夷大岛希洛镇。
+* 2021.06 - 2023.07 (expected): EAO Fellow at East Asian Observatory (EAO), Hilo, Hawaii, USA. EAO学者，东亚天文台，美国夏威夷大岛希洛镇。
 
 ### Research Experience/科研经历
 * 2018.08 - 2021.05: SAO pre-doctoral Fellow at Center for Astrophysics (CfA) \| Harvard & Smithsonian, Cambridge, Massachusetts, USA. Supervisor: Dr. Qizhou Zhang. SAO博士前访问学者，哈佛-史密松森天体物理中心，美国麻萨诸塞州剑桥市(波士顿地区)，导师：张其洲研究员。

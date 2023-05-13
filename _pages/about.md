@@ -19,5 +19,7 @@ My research interests focus on studying the role of magnetic fields in star form
 <p align="center">
   <img src="/images/junhao_paris.jpeg?raw=true" alt="Photo" style="width: 360px;"/> 
 </p>
+<p style="text-align: center;">
 我们的征途是星辰大海
-我が征くは星の大海
+(我が征くは星の大海)
+</p>
