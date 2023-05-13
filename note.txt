@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ljh41.github.io/images/junhao_office.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://liujunhao-astro.github.io/images/junhao_office.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 

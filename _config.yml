@@ -11,9 +11,9 @@ title                    : "Home/主页"
 title_separator          : "-"
 name                     : &name "Junhao Liu"
 description              : &description "EAO Fellow. East Asian Observatory"
-url                      : https://ljh41.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liujunhao-astro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ljh41.github.io"
+repository               : "liujunhao-astro.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qh8Nq_MAAAAJ&hl=en"
   email            : #"liujh@smail.nju.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Junhao_Liu2"
+  researchgate     : "https://www.researchgate.net/profile/Junhao-Liu-2"
   uri              :
   bitbucket        :
   codepen          :
