@@ -28,15 +28,21 @@ redirect_from:
 <p align="center">
   <img src="/images/junhao_hawaii.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
+<p style="text-align: center;">
 First postdoc job is in Hawaii. 第一份博后工作在夏威夷。
+</p>
 
 <p align="center">
   <img src="/images/junhao_nanjing.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
+<p style="text-align: center;">
 Studying in Nanjing for ten years. 在南京求学十年。
+</p>
 
 <p align="center">
   <img src="/images/junhao_cq.jpeg?raw=true" alt="Photo" style="width: 300px;"/> 
   <img src="/images/junhao_cq2.jpeg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
+<p style="text-align: center;">
 Grew up in a town. 成长于小镇上。
+</p>
