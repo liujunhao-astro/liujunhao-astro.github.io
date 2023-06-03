@@ -88,6 +88,16 @@ The role of magnetic fields in early stages of low-mass star formation also rema
 </p>
 Magnetic field orientations overlaid on JCMT 850 $\mu$m total intensity maps. Yellow and cyan vectors correspond to P/DP>2 and P/DP>3, respectively.
 
+### Deviation from a Continuous and Universal Turbulence Cascade ([Liu et al. 2023b]( https://ui.adsabs.harvard.edu/abs/2023ApJ...949...30L/abstract ))
+
+The community has believed that the line width–size relation in star formation regions follows a power-law scaling relation as a natural consequence of turbulence cascade. However, the relation in a high-mass star formation region is less clear due to rare studies. Using molecular line data obtained from ALMA, SMA, JCMT, and NANTEN2, I conducted an analysis of the multi-scale velocity fields. Through the application of velocity dispersion function (VDF) analysis, I observed clear deviations from a continuous and universal turbulence cascade in the scaling relation of velocity fields in NGC 6334, which can be attributed to the influence of massive star formation activities in small-scale and high-density regions. Furthermore, I also revealed possible signs of small-scale-driven supersonic turbulence, possibly induced by gravitational accretion or outflows, in the massive clump N6334IV, as inferred from a three-point VDF analysis.
+
+<p align="center">
+  <img src="/images/N6334_VDF.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
+Two-point structure functions of velocity centroids in NGC 6334.
+
+
 ### The driving mechanism of an isothermal massive outflow ([Liu et al. 2018]( https://ui.adsabs.harvard.edu/abs/2018ApJ...860..106L/abstract ))
 
 Molecular outflows are a common phenomenon associated with young stellar objects (YSOs) of all masses, but their driving mechanism remains unclear. Using CSO, APEX, and SMA observations, I performed a multi-transition CO (J=2-1, 3-2, 6-5, and 7-6 ) analysis of the outflowing gas associated with the massive UC HII region G240.31+0.07. With large velocity gradient (LVG) calculations (using the radiative transfer code [RADEX](https://home.strw.leidenuniv.nl/~moldata/radex.html)), I found that the outflow is approximately isothermal with a gas temperature of ∼50 K and that the CO column density clearly decreases with the outflow velocity, which indicates the massive outflow is being driven by a wide-angle protostellar wind. 

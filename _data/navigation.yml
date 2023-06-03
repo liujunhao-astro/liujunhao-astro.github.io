@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publication/文章"
+    url: /publication/
 
 #  - title: "About me"
 #    url: /aboutme/
