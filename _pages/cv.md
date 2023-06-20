@@ -33,19 +33,19 @@ SAO博士前访问学者，哈佛-史密松森天体物理中心，美国麻萨�
 * 1999.09 - 2005.06: Pushun Primary School, Dianjiang, Chongqing, P.R. China.  
 普顺小学, 重庆市垫江县
 
-### 拾忆
+### Memory/拾忆
 <p align="center">
-  <img src="/images/junhao_hawaii.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="/images/junhao_hawaii.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 <p style="text-align: center;">
 First postdoc job in Hawaii. 第一份博后工作在夏威夷。
 </p>
 
 <p align="center">
-  <img src="/images/junhao_nanjing.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="/images/junhao_nanjing.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 <p style="text-align: center;">
-Ten years studying in Nanjing. 求学十年于南京。
+Studying in Nanjing for ten years. 求学十年于南京。
 </p>
 
 <p align="center">

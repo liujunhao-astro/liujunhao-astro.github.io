@@ -24,7 +24,7 @@ With 3D MHD and radiative transfer simulations (made with [RAMSES](https://www.i
 - The Angular Dispersion Function (ADF) method (a modified DCF method, [Hildebrand et al. 2009]( https://ui.adsabs.harvard.edu/abs/2009ApJ...696..567H/abstract), [Houde et al. 2009]( https://ui.adsabs.harvard.edu/abs/2009ApJ...706.1504H/abstract), and [Houde et al. 2016]( https://ui.adsabs.harvard.edu/abs/2016ApJ...820...38H/abstract)) correctly accounts for the ordered field structure, the beam-smoothing effect, and the interferometric filtering effect, but might not work well for the effect of line-of-sight (LOS) signal integration. 
 
 <p align="center">
-  <img src="/images/Simu_LIC.png?raw=true" alt="Photo" style="width: 480px;"/> 
+  <img src="/images/Simu_LIC.png?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 An example of the synthetic observation of our simulations. Line integral convolution map shows the magnetic field orientation. Colorscales indicate the dust emission. 
 
@@ -49,8 +49,10 @@ The development of statistical techniques (Koch et al. 2012, Soler et al. 2013, 
   <img src="/images/jcmt_N6334_B.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 <p align="center">
-  <img src="/images/N6334In_cb_mk_B.png?raw=true" alt="Photo" style="width: 400px;"/> 
-  <img src="/images/N6334I_cb_mk_B.png?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="/images/N6334In_cb_mk_B.png?raw=true" alt="Photo" style="width: 240px;"/> 
+  <img src="/images/N6334I_cb_mk_B.png?raw=true" alt="Photo" style="width: 240px;"/> 
+    <img src="/images/N6334IV_cb_mk_B.png?raw=true" alt="Photo" style="width: 240px;"/> 
+  <img src="/images/N6334V_cb_mk_B.png?raw=true" alt="Photo" style="width: 240px;"/> 
 </p>
 Magnetic field orientations (line segments) overlaid on the dust emission map (colorscales) in NGC 6334 from Planck, JCMT, and ALMA observations.
 
