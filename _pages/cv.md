@@ -12,10 +12,10 @@ redirect_from:
 [Full version. 完全版](/files/Liu_Junhao_CV.pdf)
 
 ### Employment/工作经历
-* 2023.09 - : Project Research Fellow, National Astronomical Observatory of Japan (NAOJ), Mitaka, Tokyo, Japan. Host: Prof. Patricio Sanhueza.  
-项目研究员，日本国立天文台，日本东京都三鹰市，合作教授：帕特里西奥·萨纽埃萨。
-* 2021.06 - 2023.08: EAO Fellow, East Asian Observatory (EAO), Hilo, Hawaii, USA.  
-EAO学者，东亚天文台，美国夏威夷大岛希洛镇。
+* 2023.09 - : Project Research Fellow (postdoc), National Astronomical Observatory of Japan (NAOJ), Mitaka, Tokyo, Japan. Host: Prof. Patricio Sanhueza.  
+项目研究员(博士后)，日本国立天文台，日本东京都三鹰市，合作教授：帕特里西奥·萨纽埃萨。
+* 2021.06 - 2023.08: EAO Fellow (postdoc), East Asian Observatory (EAO), Hilo, Hawaii, USA.  
+EAO学者(博士后)，东亚天文台，美国夏威夷大岛希洛镇。
 
 ### Research Experience/科研经历
 * 2018.08 - 2021.05: SAO pre-doctoral Fellow at Center for Astrophysics (CfA) \| Harvard & Smithsonian, Cambridge, Massachusetts, USA. Supervisor: Dr. Qizhou Zhang.  
