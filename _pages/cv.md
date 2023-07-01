@@ -18,7 +18,7 @@ redirect_from:
 EAO学者(博士后)，东亚天文台，美国夏威夷大岛希洛镇。
 
 ### Research Experience/科研经历
-* 2018.08 - 2021.05: SAO pre-doctoral Fellow at Center for Astrophysics (CfA) \| Harvard & Smithsonian, Cambridge, Massachusetts, USA. Supervisor: Dr. Qizhou Zhang.  
+* 2018.08 - 2021.05: SAO pre-doctoral Fellow, Center for Astrophysics (CfA) \| Harvard & Smithsonian, Cambridge, Massachusetts, USA. Supervisor: Dr. Qizhou Zhang.  
 SAO博士前访问学者，哈佛-史密松森天体物理中心，美国麻萨诸塞州剑桥市(波士顿地区)，导师：张其洲研究员。
 
 ### Education/学历
