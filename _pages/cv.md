@@ -13,18 +13,18 @@ redirect_from:
 
 ### Employment/工作经历
 * 2023.09 - : Project Research Fellow (postdoc), National Astronomical Observatory of Japan (NAOJ), Mitaka, Tokyo, Japan. Host: Prof. Patricio Sanhueza.  
-项目研究员(博士后)，日本国立天文台，日本东京都三鹰市，合作教授：帕特里西奥·萨纽埃萨。
-* 2021.06 - 2023.08: EAO Fellow (postdoc), East Asian Observatory (EAO), Hilo, Hawaii, USA.  
+特任研究员(博士后)，日本国立天文台，日本东京都三鹰市，合作教授：帕特里西奥·萨纽埃萨。
+* 2021.06 - 2023.09: EAO Fellow (postdoc), East Asian Observatory (EAO), Hilo, Hawaii, USA.  
 EAO学者(博士后)，东亚天文台，美国夏威夷大岛希洛镇。
 
 ### Research Experience/科研经历
 * 2018.08 - 2021.05: SAO pre-doctoral Fellow, Center for Astrophysics (CfA) \| Harvard & Smithsonian, Cambridge, Massachusetts, USA. Supervisor: Dr. Qizhou Zhang.  
-SAO博士前访问学者，哈佛-史密松森天体物理中心，美国麻萨诸塞州剑桥市(波士顿地区)，导师：张其洲研究员。
+SAO博士前访问学者(联合培养博士)，哈佛-史密松森天体物理中心，美国麻萨诸塞州剑桥市(波士顿地区)，导师：张其洲研究员。
 
 ### Education/学历
-* 2015.09 - 2021.03: Ph.D. in Astronomy, Nanjing University, Nanjing, Jiangsu, P.R. China. Supervisor: Prof. Keping Qiu.  
+* 2015.09 - 2021.03: Ph.D. in Astronomy, Nanjing University (NJU), Nanjing, Jiangsu, P.R. China. Supervisor: Prof. Keping Qiu.  
 天文学博士，南京大学，江苏省南京市，导师：邱科平教授
-* 2011.09 - 2015.06: B.S. in Astronomy, Nanjing University, Nanjing, Jiangsu, P.R. China.  
+* 2011.09 - 2015.06: B.S. in Astronomy, Nanjing University (NJU), Nanjing, Jiangsu, P.R. China.  
 天文学学士，南京大学，江苏省南京市
 * 2007.09 - 2011.06: Chongqing No.8 Middle School, Chongqing, P.R. China.  
 重庆八中，重庆市
@@ -45,7 +45,7 @@ First postdoc job in Hawaii. 第一份博后工作在夏威夷。
   <img src="/images/junhao_nanjing.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 <p style="text-align: center;">
-Studying in Nanjing for ten years. 求学十年于南京。
+Studied in Nanjing for ten years. 求学十年于南京。
 </p>
 
 <p align="center">
@@ -53,5 +53,5 @@ Studying in Nanjing for ten years. 求学十年于南京。
 </p>
 <p style="text-align: center;">
 <p style="text-align: center;">
-Grew up in a town. 成长于小镇上。
+Grew up in a town. 于小镇上成长。
 </p>

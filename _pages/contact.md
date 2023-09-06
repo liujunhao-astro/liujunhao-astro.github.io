@@ -7,5 +7,5 @@ author_profile: true
 
 ---
 
-Email: liujunhao42[at]outlook.com, liujh[at]smail.nju.edu.cn, j.liu[at]eaobservatory.org
+Email: liujunhao42[at]outlook.com, junhao.liu[at]nao.ac.jp, liujh[at]smail.nju.edu.cn
 
