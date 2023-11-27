@@ -16,7 +16,7 @@ author_profile: true
 [ADS library (First-author)/ADS文章列表(第一作者)](https://ui.adsabs.harvard.edu/public-libraries/BHaOyBG7Q-C6tUacIfbv3Q)
 
 ### First-author paper/一作文章
-\*. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"
+9. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"  
 **Liu, J.**; Zhang, Q.; and 15 coauthors; **2023c**, ApJ, submitted
 8. "Deviation from a Continuous and Universal Turbulence Cascade in NGC 6334 Due to Massive Star Formation Activity"  
 **Liu, J.**; Zhang, Q.; and 11 coauthors; **2023b**, ApJ, 949, 30
