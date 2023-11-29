@@ -35,7 +35,7 @@ author_profile: true
 1. "An Isothermal Outflow in High-mass Star-forming Region G240.31+0.07"  
 **Liu, J.**; Qiu, K.; and 5 coauthors; **2018**, ApJ, 860, 106
 
-### Co-author paper (Second-author or corresponding-author)/合作文章(二作或通讯)
+### Co-author paper (second-author or corresponding-author)/合作文章(二作或通讯)
 2. "Magnetic Fields in the Central Molecular Zone Influenced by Feedback and Weakly Correlated with Star Formation"  
 Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2023**, ApJ, submitted
 1. "Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)"  

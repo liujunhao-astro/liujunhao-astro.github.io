@@ -13,21 +13,21 @@ redirect_from:
 
 ### Employment/工作经历
 * 2023.09 -  
-Project Researcher (postdoc), National Astronomical Observatory of Japan (NAOJ), Mitaka, Tokyo, Japan. Host: Prof. Patricio Sanhueza.  
-特任研究员(博士后)，日本国立天文台(NAOJ)，日本东京都三鹰市，合作教授：Patricio Sanhueza。
+Project Researcher (postdoc), [National Astronomical Observatory of Japan (NAOJ)](https://www.nao.ac.jp/en/), Mitaka, Tokyo, Japan. Host: Prof. [Patricio Sanhueza](http://www2.nao.ac.jp/~patricio/).  
+特任研究员(博士后)，[日本国立天文台 (NAOJ)](https://www.nao.ac.jp/en/)，日本东京都三鹰市，合作教授：[Patricio Sanhueza](http://www2.nao.ac.jp/~patricio/)。
 * 2021.06 - 2023.09  
-EAO Fellow (postdoc), East Asian Observatory (EAO), Hilo, Hawaii, USA.  
-EAO学者(博士后)，东亚天文台(EAO)，美国夏威夷大岛希洛镇。
+EAO Fellow (postdoc), [East Asian Observatory (EAO)](https://www.eaobservatory.org/), Hilo, Hawaii, USA.  
+EAO学者(博士后)，[东亚天文台 (EAO)](https://www.eaobservatory.org/)，美国夏威夷大岛希洛镇。
 
 ### Research Experience/科研经历
 * 2018.08 - 2021.05  
-SAO pre-doctoral Fellow, Center for Astrophysics (CfA) \| Harvard & Smithsonian, Cambridge, Massachusetts, USA. Supervisor: Dr. Qizhou Zhang.  
-SAO博士前访问学者(联合培养博士)，哈佛-史密松森天体物理中心(CfA)，美国麻萨诸塞州剑桥市(波士顿地区)，导师：张其洲研究员。
+SAO pre-doctoral Fellow, [Center for Astrophysics (CfA) \| Harvard & Smithsonian](https://www.cfa.harvard.edu), Cambridge, Massachusetts, USA. Supervisor: Dr. [Qizhou Zhang](https://lweb.cfa.harvard.edu/~qzhang/).  
+SAO博士前访问学者(联合培养博士)，[哈佛-史密松森天体物理中心 (CfA)](https://www.cfa.harvard.edu)，美国麻萨诸塞州剑桥市(波士顿地区)，导师：[张其洲](https://lweb.cfa.harvard.edu/~qzhang/)研究员。
 
 ### Education/学历
 * 2015.09 - 2021.03  
-Ph.D. in Astronomy, Nanjing University (NJU), Nanjing, Jiangsu, P.R. China. Supervisor: Prof. Keping Qiu.  
-天文学博士，南京大学，江苏省南京市，导师：邱科平教授
+Ph.D. in Astronomy, [Nanjing University](https://astronomy.nju.edu.cn), Nanjing, Jiangsu, P.R. China. Supervisor: Prof. [Keping Qiu](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13834.html).  
+天文学博士，[南京大学](https://astronomy.nju.edu.cn)，江苏省南京市，导师：[邱科平](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13834.html)教授
 * 2011.09 - 2015.06  
 B.S. in Astronomy, Nanjing University (NJU), Nanjing, Jiangsu, P.R. China.  
 天文学学士，南京大学，江苏省南京市
