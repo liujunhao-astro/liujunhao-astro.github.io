@@ -7,7 +7,7 @@ author_profile: true
 
 Stars form from molecular cores that are created by the contraction of over-dense regions in molecular clouds. Observational studies of magnetic fields (B fields) in molecular clouds are essential to help us understand how exactly the B field is affecting and affected by star formation at different scales and in different evolutionary stages, which is crucial to provide constraints for different star formation theories. The most common way to trace the plane-of-sky (POS) component of the magnetic field orientations is via dust polarization observations.
 
-## Observational studies of B fields in molecular clouds
+## <ins>1.Observational studies of B fields in molecular clouds</ins>
 
 ### Multi-scale magnetic properties in evolved high-mass star-forming region NGC 6334 ([Liu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..160L/abstract))
 
@@ -34,11 +34,11 @@ Magnetic field orientations (line segments) overlaid on the dust emission map (c
 Relative orientations (characterized by the alignment measure $AM$) between magnetic field (B) and local gravity (LG) as a function of column density for Planck, JCMT, and ALMA observations.
 
 
-### Initial condition of low-mass and high-mass star formation} ([Liu et al. 2019]( https://ui.adsabs.harvard.edu/abs/2019ApJ...877...43L/abstract),[2020]( https://ui.adsabs.harvard.edu/abs/2020ApJ...895..142L/abstract), and submitted)
+### Initial condition of low-mass and high-mass star formation ([Liu et al. 2019]( https://ui.adsabs.harvard.edu/abs/2019ApJ...877...43L/abstract),[2020]( https://ui.adsabs.harvard.edu/abs/2020ApJ...895..142L/abstract), and submitted)
 
 The role of B fields in the early stages of star formation remains mysterious due to the lack of direct observations. Specifically, determining the magnetic critical state is important to constrain the lifetime of dense cores and to provide insights into the interstellar star formation rate. In Liu et al. 2019 and Liu et al. 2020, I investigated the B field properties in the low-mass starless core Ophiuchus C and in several high-mass dense cores in the infrared dark cloud (IRDC) G28.34, both at early evolutionary stages, using dust polarization observations obtained with the JCMT and ALMA, respectively. In both studies, I estimated the B field strength of these cores with modified statistical methods and found that these cores are magnetically supercritical (gravity dominates B fields). These two studies provide some of the earliest observational evidences for the magnetic critical state in the early stages of both low-mass and high-mass star formation. Moreover, Liu et al. 2020 also presented a quantitative comparison for several statistical methods that have been widely used to estimate the B field strength. In Liu et al. (submitted), I extended the work in Liu et al. 2020 and studied the multi-scale (from cloud to condensation scales) B fields in IRDC G28.34 using dust polarization data from Planck, JCMT, and ALMA. With a comprehensive analysis implementing a wealth of statistical approaches, I found that B fields dominate gravity and turbulence in the environment of G28.34 at large scales, resulting in relatively slow cloud formation and evolution processes. Within the IRDC, gravity overwhelms both B fields and turbulence, allowing local dynamical star formation to happen. The dynamical state in G28.34 is inconsistent with the two major classes of massive star formation models (turbulent core accretion model and competitive accretion model), which provides significant observational evidence for the future refinement of massive star formation theories. The study in Liu et al. (submitted) clearly reveals the role of B fields at different scales in an individual IRDC, which presents a cloud-to-condensation-scale B field study in an early-stage massive star formation region and fills in the gap of such studies.
 
-## Numerical study of analysis methods used to interpret B fields
+## <ins>2.Numerical study of analysis methods used to interpret B fields</ins>
 
 ### Calibrating the DCF method with numerical simulations ([Liu et al. 2021]( https://ui.adsabs.harvard.edu/abs/2021ApJ...919...79L/abstract))
 
@@ -49,7 +49,7 @@ The Davis-Chandrasekhar-Fermi (DCF) method, which was initially proposed to stud
 </p>
 An example of the synthetic observation of our simulations. Line integral convolution map shows the magnetic field orientation. Colorscales indicate the dust emission. 
 
-## Review of B field studies in the literature
+## <ins>3.Review of B field studies in the literature</ins>
 
 
 ### A Compilation of All the DCF Estimations ([Liu et al. 2022a]( https://ui.adsabs.harvard.edu/abs/2022ApJ...925...30L/abstract))

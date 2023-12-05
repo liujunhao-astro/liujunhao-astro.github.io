@@ -26,10 +26,10 @@ SAO博士前访问学者(联合培养博士)，[哈佛-史密松森天体物理�
 
 ### Education/学历
 * 2015.09 - 2021.03  
-Ph.D. in Astronomy, [Nanjing University](https://astronomy.nju.edu.cn), Nanjing, Jiangsu, P.R. China. Supervisor: Prof. [Keping Qiu](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13834.html).  
+Ph.D. in Astronomy, [Nanjing University](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, P.R. China. Supervisor: Prof. [Keping Qiu](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13834.html).  
 天文学博士，[南京大学](https://astronomy.nju.edu.cn)，江苏省南京市，导师：[邱科平](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13834.html)教授
 * 2011.09 - 2015.06  
-B.S. in Astronomy, Nanjing University (NJU), Nanjing, Jiangsu, P.R. China.  
+B.S. in Astronomy, Nanjing University, Nanjing, Jiangsu, P.R. China.  
 天文学学士，南京大学，江苏省南京市
 * 2007.09 - 2011.06  
 Chongqing No.8 Middle School, Chongqing, P.R. China.  

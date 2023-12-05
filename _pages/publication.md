@@ -37,7 +37,7 @@ author_profile: true
 
 ### Co-author paper (second-author or corresponding-author)/合作文章(二作或通讯)
 2. "Magnetic Fields in the Central Molecular Zone Influenced by Feedback and Weakly Correlated with Star Formation"  
-Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2023**, ApJ, submitted
+Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2023**, ApJ, accepted
 1. "Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)"  
 Barnes, A. T.; **Liu, J.**; and 16 coauthors; **2023**, A&A, 657, 53
 
