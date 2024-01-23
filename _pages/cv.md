@@ -19,14 +19,20 @@ Project Researcher (postdoc), [National Astronomical Observatory of Japan (NAOJ)
 EAO Fellow (postdoc), [East Asian Observatory (EAO)](https://www.eaobservatory.org/), Hilo, Hawaii, USA.  
 EAO学者(博士后)，[东亚天文台 (EAO)](https://www.eaobservatory.org/)，美国夏威夷大岛希洛镇。
 
-### Research Experience/科研经历
+### Visit Experience/访问经历
 * 2018.08 - 2021.05  
 SAO pre-doctoral Fellow, [Center for Astrophysics (CfA) \| Harvard & Smithsonian](https://www.cfa.harvard.edu), Cambridge, Massachusetts, USA. Supervisor: Dr. [Qizhou Zhang](https://lweb.cfa.harvard.edu/~qzhang/).  
 SAO博士前访问学者(联合培养博士)，[哈佛-史密松森天体物理中心 (CfA)](https://www.cfa.harvard.edu)，美国麻萨诸塞州剑桥市(波士顿地区)，导师：[张其洲](https://lweb.cfa.harvard.edu/~qzhang/)研究员。
+* 2019.06  
+Visitor, The French Alternative Energies and Atomic Energy Commission (CEA)-Saclay, Saclay, Paris, France
+访问者，法国原子能和替代能源委员会(CEA)萨克雷中心，萨克雷，巴黎，法国
+* 2014.07 - 2014.08  
+Undergraduate exchange student, The University of Sydney, Sydney, Australia
+本科交换生，悉尼大学，悉尼，澳大利亚
 
 ### Education/学历
 * 2015.09 - 2021.03  
-Ph.D. in Astronomy, [Nanjing University](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, P.R. China. Supervisor: Prof. [Keping Qiu](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13834.html).  
+Ph.D. in Astronomy, [Nanjing University](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, P.R. China. Supervisor: Prof. [Keping Qiu](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113710.html).  
 天文学博士，[南京大学](https://astronomy.nju.edu.cn)，江苏省南京市，导师：[邱科平](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13834.html)教授
 * 2011.09 - 2015.06  
 B.S. in Astronomy, Nanjing University, Nanjing, Jiangsu, P.R. China.  

@@ -15,9 +15,11 @@ author_profile: true
 
 [ADS library (First-author)/ADS文章列表(第一作者)](https://ui.adsabs.harvard.edu/public-libraries/BHaOyBG7Q-C6tUacIfbv3Q)
 
-### First-author paper/一作文章
-9. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"  
-**Liu, J.**; Zhang, Q.; and 15 coauthors; **2023c**, ApJ, submitted
+### First-author or corresponding-author papers/一作或通讯文章
+10. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"  
+**Liu, J.**; Zhang, Q.; and 15 coauthors; **2024**, ApJ, in revision
+9. "Magnetic Fields in the Central Molecular Zone Influenced by Feedback and Weakly Correlated with Star Formation"  
+Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2023**, ApJ, accepted
 8. "Deviation from a Continuous and Universal Turbulence Cascade in NGC 6334 Due to Massive Star Formation Activity"  
 **Liu, J.**; Zhang, Q.; and 11 coauthors; **2023b**, ApJ, 949, 30
 7. "Multi-scale Physical Properties of NGC 6334 as Revealed by Local Relative Orientations between Magnetic Fields, Density Gradients, Velocity Gradients, and Gravity"  
@@ -35,9 +37,7 @@ author_profile: true
 1. "An Isothermal Outflow in High-mass Star-forming Region G240.31+0.07"  
 **Liu, J.**; Qiu, K.; and 5 coauthors; **2018**, ApJ, 860, 106
 
-### Co-author paper (second-author or corresponding-author)/合作文章(二作或通讯)
-2. "Magnetic Fields in the Central Molecular Zone Influenced by Feedback and Weakly Correlated with Star Formation"  
-Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2023**, ApJ, accepted
+### Second-author papers/二作文章
 1. "Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)"  
 Barnes, A. T.; **Liu, J.**; and 16 coauthors; **2023**, A&A, 657, 53
 
