@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Junhao Liu 刘(劉)峻豪"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
