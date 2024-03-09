@@ -13,11 +13,11 @@ author_profile: true
 
 [ADS library (First-author or corresponding-author)/ADS文章列表(第一作者或通讯作者)](https://ui.adsabs.harvard.edu/public-libraries/BHaOyBG7Q-C6tUacIfbv3Q)
 
-[ADS library (all)/ADS文章列表(所有)](https://ui.adsabs.harvard.edu/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
+[ADS library (all)/ADS文章列表(全)](https://ui.adsabs.harvard.edu/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
 
 ### First-author or corresponding-author papers/一作或通讯文章
 10. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"  
-**Liu, J.**; Zhang, Q.; and 15 coauthors; **2024**, ApJ, in revision
+**Liu, J.**; Zhang, Q.; and 15 coauthors; **2024**, ApJ, accepted
 9. "Magnetic Fields in the Central Molecular Zone Influenced by Feedback and Weakly Correlated with Star Formation"  
 Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2023**, ApJ, 962, 39
 8. "Deviation from a Continuous and Universal Turbulence Cascade in NGC 6334 Due to Massive Star Formation Activity"  
