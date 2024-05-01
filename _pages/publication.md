@@ -17,9 +17,9 @@ author_profile: true
 
 ### First-author or corresponding-author papers/一作或通讯文章
 10. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"  
-**Liu, J.**; Zhang, Q.; and 15 coauthors; **2024**, ApJ, accepted
+**Liu, J.**; Zhang, Q.; and 15 coauthors; **2024**, ApJ, 966, 120
 9. "Magnetic Fields in the Central Molecular Zone Influenced by Feedback and Weakly Correlated with Star Formation"  
-Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2023**, ApJ, 962, 39
+Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2024**, ApJ, 962, 39
 8. "Deviation from a Continuous and Universal Turbulence Cascade in NGC 6334 Due to Massive Star Formation Activity"  
 **Liu, J.**; Zhang, Q.; and 11 coauthors; **2023b**, ApJ, 949, 30
 7. "Multi-scale Physical Properties of NGC 6334 as Revealed by Local Relative Orientations between Magnetic Fields, Density Gradients, Velocity Gradients, and Gravity"  
