@@ -9,11 +9,11 @@ author_profile: true
 
 ### Initial condition of low-mass and high-mass star formation ([Liu et al. 2019]( https://ui.adsabs.harvard.edu/abs/2019ApJ...877...43L/abstract),[2020]( https://ui.adsabs.harvard.edu/abs/2020ApJ...895..142L/abstract), and [2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..120L/abstract))
 
-In Liu et al. 2020 and 2024, I studied the the multi-scale B of the massive infrared dark cloud (IRDC) G28.34+0.06 (the Dragon cloud) with dust polarization data from ALMA, JCMT, and Planck. These two studies reveals the role of B fields at different scales in an individual early-stage massive star formation region.  
+In Liu et al. 2020 and 2024, I studied the the multi-scale B of the massive infrared dark cloud (IRDC) G28.34+0.06 (the Dragon cloud) with dust polarization data from ALMA, JCMT, and Planck. These two studies reveal the role of B fields at different scales in an individual early-stage massive star formation region.  
 在Liu et al. 2020和2024中，我利用ALMA、JCMT、Planck的数据研究了一个处于大质量恒星形成早期阶段的红外暗云G28.34+0.06(又称龙分子云)的多尺度磁场。
 
 《來自星塵的暗龍》：黑暗之龍沉眠深紅星空，須彌微塵暗孕星火之原。打破吧，那磁場的鎖鏈；征服吧，那無序的湍流。光之意志自星骸中重生，藍白之星定閃耀銀河！ 
-"Dark Dragon from Dust": The dark dragon slumbers in the crimson sky, amidst the interstellar dust, harboring the origins of stellar fire. Breaking free from the chains of magnetic fields; conquering the chaotic turbulence. The will of light is reborn from the remnants of stars, and the blue and white massive stars shall shine in the galaxy!  
+"Dark Dragon from Dust": The dark dragon slumbers in the crimson sky, amidst the interstellar dust, harboring the origins of stellar fire. Breaking free from the chains of magnetic fields; conquering the chaotic turbulence. The will of light is reborn from the remnants of stars; the blue and white massive stars shall shine in the galaxy!  
 
 <p align="center">
   <img src="/images/g28_planck_jcmt.png?raw=true" alt="Photo" style="width: 400px;"/> 
