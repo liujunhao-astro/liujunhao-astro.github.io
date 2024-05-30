@@ -26,10 +26,10 @@ In Liu et al. 2019, I investigated the B field properties in the low-mass starle
 在Liu et al. 2019中，我利用JCMT的观测数据研究了一个处于小质量恒星形成早期阶段的无星云核Ophiuchus C的磁场性质。
 
 
-### Multi-scale magnetic properties in evolved high-mass star-forming region NGC 6334 ([Liu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..160L/abstract))
+### Multi-scale magnetic properties in nearby high-mass star-forming region NGC 6334 ([Liu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..160L/abstract))
 
-Using dust polarization data from ALMA, JCMT, and Planck, I investigated the multi-scale (e.g., $\sim$10 pc clouds, $\sim$1 pc clumps, $\sim$0.1 pc cores, $\sim$0.01 pc condensations...) B field property in the nearby evolved massive star formation region NGC 6334.  
-利用ALMA、JCMT、Planck的数据，我研究了处于较演化阶段的邻近大质量恒星形成区NGC 6334的多尺度磁场。
+Using dust polarization data from ALMA, JCMT, and Planck, I investigated the multi-scale (e.g., $\sim$10 pc clouds, $\sim$1 pc clumps, $\sim$0.1 pc cores, $\sim$0.01 pc condensations...) B field property in the nearby massive star formation region NGC 6334.  
+利用ALMA、JCMT、Planck的数据，我研究了邻近大质量恒星形成区NGC 6334的多尺度磁场。
 
 <p align="center">
   <img src="/images/N6334_gnilc_B_equj.png?raw=true" alt="Photo" style="width: 400px;"/> 
