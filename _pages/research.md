@@ -66,7 +66,7 @@ I collected all the DCF estimations of B strength from polarized dust emission o
 <p align="center">
   <img src="/images/lambBtot_Ncol_instru0_method0.png?raw=true" alt="Photo" style="width: 540px;"/> 
 </p>
-Normalized mass-to-flux ratio (gravitational-to-magnetical ratio) as a function of gas column density. 
+Normalized mass-to-flux ratio (gravitational-to-magnetic ratio) as a function of gas column density. 
 
 
 ### A review of statistical methods used to study magnetic field properties ([Liu et al. 2022b]( https://ui.adsabs.harvard.edu/abs/2022FrASS...9.3556L/abstract))

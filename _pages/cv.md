@@ -49,17 +49,25 @@ Pushun Primary School, Dianjiang, Chongqing, P.R. China.
 
 ### Memory/拾忆
 <p align="center">
+  <img src="/images/junhao_fuji2.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="/images/junhao_eva.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+</p>
+<p style="text-align: center;">
+Postdoc in Tokyo now. 东京博后中。
+</p>
+
+<p align="center">
   <img src="/images/junhao_hawaii.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 <p style="text-align: center;">
-First postdoc job in Hawaii. 第一份博后工作在夏威夷。
+Postdoc in Hawaii for two years. 夏威夷博后两年。
 </p>
 
 <p align="center">
   <img src="/images/junhao_nanjing.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 <p style="text-align: center;">
-Studied in Nanjing for ten years. 求学十年于南京。
+Studied in Nanjing for ten years. 南京求学十年。
 </p>
 
 <p align="center">
@@ -67,5 +75,5 @@ Studied in Nanjing for ten years. 求学十年于南京。
 </p>
 <p style="text-align: center;">
 <p style="text-align: center;">
-Grew up in a town. 于小镇上成长。
+Grew up in a town. 小镇上成长。
 </p>
