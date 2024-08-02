@@ -1,10 +1,8 @@
 # main links links
 main:
+
   - title: "Publication/文章"
     url: /publication/
-
-#  - title: "About me"
-#    url: /aboutme/
 
   - title: "Research/研究"
     url: /research/    
@@ -26,3 +24,6 @@ main:
 
   - title: "Contact/联络"
     url: /contact/
+    
+  - title: "我/Me"
+    url: /aboutme/

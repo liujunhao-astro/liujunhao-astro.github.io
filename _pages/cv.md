@@ -25,10 +25,10 @@ SAO pre-doctoral Fellow, [Center for Astrophysics (CfA) \| Harvard & Smithsonian
 SAO博士前访问学者(联合培养博士)，[哈佛-史密松森天体物理中心 (CfA)](https://www.cfa.harvard.edu)，美国麻萨诸塞州剑桥市(波士顿地区)，导师：[张其洲](https://lweb.cfa.harvard.edu/~qzhang/)研究员。
 * 2019.06  
 Visitor, The French Alternative Energies and Atomic Energy Commission (CEA)-Saclay, Saclay, Paris, France  
-访问者，法国原子能和替代能源委员会(CEA)萨克雷中心，萨克雷，巴黎，法国
+访问者，法国原子能和替代能源委员会(CEA)萨克雷中心，法国巴黎萨克雷
 * 2014.07 - 2014.08  
 Undergraduate exchange student, The University of Sydney, Sydney, Australia  
-本科交换生，悉尼大学，悉尼，澳大利亚
+本科交换生，悉尼大学，澳大利亚悉尼
 
 ### Education/学历
 * 2015.09 - 2021.03  
@@ -46,34 +46,3 @@ Dianjiang Middle School, Dianjiang, Chongqing, P.R. China.
 * 1999.09 - 2005.06  
 Pushun Primary School, Dianjiang, Chongqing, P.R. China.  
 普顺小学, 重庆市垫江县
-
-### Memory/拾忆
-<p align="center">
-  <img src="/images/junhao_fuji2.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
-  <img src="/images/junhao_eva.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
-</p>
-<p style="text-align: center;">
-Postdoc in Tokyo now. 东京博后中。
-</p>
-
-<p align="center">
-  <img src="/images/junhao_hawaii.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
-</p>
-<p style="text-align: center;">
-Postdoc in Hawaii for two years. 夏威夷博后两年。
-</p>
-
-<p align="center">
-  <img src="/images/junhao_nanjing.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
-</p>
-<p style="text-align: center;">
-Studied in Nanjing for ten years. 南京求学十年。
-</p>
-
-<p align="center">
-  <img src="/images/junhao_cq2.jpeg?raw=true" alt="Photo" style="width: 500px;"/> 
-</p>
-<p style="text-align: center;">
-<p style="text-align: center;">
-Grew up in a town. 小镇上成长。
-</p>
