@@ -13,8 +13,8 @@ redirect_from:
 
 ### Employment/工作经历
 * 2023.09 -  
-Project Researcher (postdoc), [National Astronomical Observatory of Japan (NAOJ)](https://www.nao.ac.jp/en/), Mitaka, Tokyo, Japan. Host: Prof. [Patricio Sanhueza](http://www2.nao.ac.jp/~patricio/).  
-特任研究员(博士后)，[日本国立天文台 (NAOJ)](https://www.nao.ac.jp/en/)，日本东京都三鹰市，合作教授：[Patricio Sanhueza](http://www2.nao.ac.jp/~patricio/)。
+Project Researcher (postdoc), [National Astronomical Observatory of Japan (NAOJ)](https://www.nao.ac.jp/en/), Mitaka, Tokyo, Japan. Host: Prof. [Patricio Sanhueza](http://www2.nao.ac.jp/~patricio/) and Prof. [Fumitaka Nakamura](http://th.nao.ac.jp/MEMBER/nakamrfm/indexe.html).  
+特任研究员(博士后)，[日本国立天文台 (NAOJ)](https://www.nao.ac.jp/en/)，日本东京都三鹰市，合作教授：[Patricio Sanhueza](http://www2.nao.ac.jp/~patricio/) 和 [中村文隆](http://th.nao.ac.jp/MEMBER/nakamrfm/index.html)。
 * 2021.06 - 2023.09  
 EAO Fellow (postdoc), [East Asian Observatory (EAO)](https://www.eaobservatory.org/), Hilo, Hawaii, USA.  
 EAO学者(博士后)，[东亚天文台 (EAO)](https://www.eaobservatory.org/)，美国夏威夷大岛希洛镇。
