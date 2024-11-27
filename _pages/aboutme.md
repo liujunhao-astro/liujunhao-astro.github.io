@@ -20,14 +20,14 @@ I was born in 1993 and grew up in a riverside town surrounded by mountains in [D
   <img src="/images/junhao_eva.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 <p style="text-align: center;">
-Tokyo good. 東京思故月，浪人乘風向山行，見海夢光明。
+Tokyo is fun. 東京欲尋星，浪人乘風向山行，見海夢光明。
 </p>
 
 <p align="center">
   <img src="/images/junhao_hawaii.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 <p style="text-align: center;">
-Doing research independently in Hawaii during COVID19. 疫情中，于夏威夷独自科研。
+Did my research independently in Hawaii during COVID19. 疫情中，于夏威夷独自科研。
 </p>
 
 <p align="center">
