@@ -27,7 +27,7 @@ Tokyo is fun. 東京欲尋星，浪人乘風向山行，見海夢光明。
   <img src="/images/junhao_hawaii.jpeg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 <p style="text-align: center;">
-Did my research independently in Hawaii during COVID19. 疫情中，于夏威夷独自科研。
+Conducted research independently in Hawaii during COVID19. 疫情中，于夏威夷独自科研。
 </p>
 
 <p align="center">
