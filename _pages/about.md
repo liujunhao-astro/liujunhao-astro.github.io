@@ -16,6 +16,7 @@ I am a postdoc at [National Astronomical Observatory of Japan (NAOJ)](https://ww
   <img src="/images/junhao_gundam.jpg?raw=true" alt="Photo" style="width: 360px;"/> 
 </p>
 <p style="text-align: center;">
-我们的征途是星辰大海 我が征くは星の大海
+我们的征途是星辰大海 我が征くは星の大海  
+To the stars through our journey
 </p>
 
