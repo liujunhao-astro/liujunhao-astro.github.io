@@ -38,6 +38,8 @@ Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2024**, ApJ, 962, 39
 **Liu, J.**; Qiu, K.; and 5 coauthors; **2018**, ApJ, 860, 106
 
 ### Second-author papers/二作文章
+2. "Magnetic Fields in Massive Star-forming Regions (MagMaR): The Magnetic Field at the Onset of High-mass Star Formation"  
+Sanhueza, P.;; **Liu, J.**; and 37 coauthors; **2024**, ApJ, 980, 87
 1. "Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)"  
 Barnes, A. T.; **Liu, J.**; and 16 coauthors; **2023**, A&A, 657, 53
 
