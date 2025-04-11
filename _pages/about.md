@@ -11,9 +11,9 @@ I am a postdoc at [National Astronomical Observatory of Japan (NAOJ)](https://ww
 
 我目前在[日本国立天文台 (NAOJ)](https://www.nao.ac.jp/en/)做博士后，之前在2021年三月于[南京大学](https://astronomy.nju.edu.cn)获得天文学博士学位。我是一个兴趣使然的天文人，主要利用毫米/亚毫米波单天线望远镜或者望远镜阵列(例如[Planck](https://sci.esa.int/web/planck)、 [JCMT](http://www.eaobservatory.org/jcmt/)、[SMA](http://sma1.sma.hawaii.edu/)、 [ALMA](https://almascience.nrao.edu/))的偏振观测数据来研究磁场在恒星形成过程中所起到的作用。
 
-
 <p align="center">
-  <img src="/images/junhao_gundam.png?raw=true" alt="Photo" style="width: 360px;"/> 
+  <img src="/images/junhao_gundam.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="/images/junhao_gundam_gpt.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
 </p>
 <p style="text-align: center;">
 我们的征途是星辰大海 我が征くは星の大海  
