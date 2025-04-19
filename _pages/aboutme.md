@@ -13,6 +13,15 @@ I was born in 1993 and grew up in a riverside town surrounded by mountains in [D
 
 我于1993年出生于四川省涪陵市垫江县，成长于重庆市[垫江县](https://map.baidu.com/search/%E5%9E%AB%E6%B1%9F%E5%8E%BF/@11938320.235205479,3513976.76,11.1z?querytype=s&da_src=shareurl&wd=%E5%9E%AB%E6%B1%9F&c=54622&src=0&pn=0&sug=0&l=15&b=\(-8576874.05781665,4675164.269083421;-8566514.05781665,4680636.269083421\)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&device_ratio=2)的一个两山夹峙群丘围绕的河边小镇上。科研之余，我的宅系爱好是沉浸于小说(科幻、奇幻、武侠...)和ACG的世界；在运动系爱好方面，我喜欢足球、乒乓球、登山、以及骑行。
 
+<p align="center">
+  <img src="/images/junhao_gundam.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="/images/junhao_gundam_gpt.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
+</p>
+<p style="text-align: center;">
+我们的征途是星辰大海 我が征くは星の大海  
+To the stars through our journey
+</p>
+
 ### Memory/拾忆
 <p align="center">
   <img src="/images/junhao_fuji2.jpg?raw=true" alt="Photo" style="width: 400px;"/> 

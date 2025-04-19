@@ -60,7 +60,7 @@ Examples of the synthetic observation of our simulations. Line integral convolut
 
 ### A Compilation of All the DCF Estimations ([Liu et al. 2022a]( https://ui.adsabs.harvard.edu/abs/2022ApJ...925...30L/abstract))
 
-I collected all the DCF estimations of B strength from polarized dust emission observations in the literature (230 estimations from 75 papers) and corrected them with numerical results (Liu et al. 2021). The statistical study systematically reveals the general property of B fields in star formation regions, which is instructive for the development of future star formation theories.  
+I collected all the DCF estimations of B strength from polarized dust emission observations in the literature (230 estimations from 75 papers) and corrected them with numerical results (Liu et al. 2021). The statistical study systematically reveals the general property of B fields in star formation regions, which is instructive for the future development of star formation theories.  
 我整理收集了所有历史文献里利用DCF方法测量的恒星形成区的磁场强度，并系统性地研究了磁场的一般统计性质。
 
 <p align="center">
