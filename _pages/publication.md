@@ -11,11 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-[ADS library (First-author or corresponding-author)/ADS文章列表(第一作者或通讯作者)](https://ui.adsabs.harvard.edu/public-libraries/BHaOyBG7Q-C6tUacIfbv3Q)
+[ADS library (First-author or corresponding-author)/ADS论文列表(第一作者或通讯作者)](https://ui.adsabs.harvard.edu/public-libraries/BHaOyBG7Q-C6tUacIfbv3Q)
 
-[ADS library (all)/ADS文章列表(全)](https://ui.adsabs.harvard.edu/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
+[ADS library (all)/ADS论文列表(全)](https://ui.adsabs.harvard.edu/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
 
-### First-author or corresponding-author papers/一作或通讯文章
+### First-author or corresponding-author papers/一作或通讯论文
 10. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"  
 **Liu, J.**; Zhang, Q.; and 15 coauthors; **2024**, ApJ, 966, 120
 9. "Magnetic Fields in the Central Molecular Zone Influenced by Feedback and Weakly Correlated with Star Formation"  
@@ -37,7 +37,7 @@ Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2024**, ApJ, 962, 39
 1. "An Isothermal Outflow in High-mass Star-forming Region G240.31+0.07"  
 **Liu, J.**; Qiu, K.; and 5 coauthors; **2018**, ApJ, 860, 106
 
-### Second-author papers/二作文章
+### Second-author papers/二作论文
 2. "Magnetic Fields in Massive Star-forming Regions (MagMaR): The Magnetic Field at the Onset of High-mass Star Formation"  
 Sanhueza, P.; **Liu, J.**; and 37 coauthors; **2024**, ApJ, 980, 87
 1. "Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)"  
