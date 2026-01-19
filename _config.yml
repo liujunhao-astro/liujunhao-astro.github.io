@@ -10,7 +10,7 @@ locale                   : "utf-8"
 title                    : "Astronomer/天文人"
 title_separator          : "-"
 name                     : &name "Junhao Liu"
-description              : &description "Project Researcher, NAOJ"
+description              : &description "Assistant Professor, NJU"
 url                      : https://liujunhao-astro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liujunhao-astro.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Junhao Liu"
   avatar           : "junhao_paint2.jpg"
-  bio              : "Project Researcher, NAOJ"
-  location         : "Mitaka, Tokyo, Japan"
+  bio              : "Assistant Professor, NJU"
+  location         : "Nanjing, Jiangsu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qh8Nq_MAAAAJ&hl=en"

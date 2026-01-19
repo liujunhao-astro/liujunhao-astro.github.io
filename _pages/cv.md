@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-[Full version. 完全版](/files/Liu_Junhao_CV.pdf)
+[Full version. 完全版](/files/LiuJunHao_CV.pdf)
 
 ### Employment/工作经历
-* 2023.09 -  
-Project Researcher (postdoc), [National Astronomical Observatory of Japan (NAOJ)](https://www.nao.ac.jp/en/), Mitaka, Tokyo, Japan. Host: Prof. [Patricio Sanhueza](http://www2.nao.ac.jp/~patricio/) and Prof. [Fumitaka Nakamura](http://th.nao.ac.jp/MEMBER/nakamrfm/indexe.html).  
-特任研究员(博士后)，[日本国立天文台 (NAOJ)](https://www.nao.ac.jp/en/)，日本东京都三鹰市，合作教授：[帕特里西奥·萨纽埃萨](http://www2.nao.ac.jp/~patricio/) 和 [中村文隆](http://th.nao.ac.jp/MEMBER/nakamrfm/index.html)。
+* 2026.01 -  
+Assistant Professor (Tenure-Track), [Nanjing University](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, China.  
+助理教授(准聘)，[南京大学](https://astronomy.nju.edu.cn)，江苏省南京市。
+* 2023.09 - 2026.01  
+Project Researcher (postdoc), [National Astronomical Observatory of Japan (NAOJ)](https://www.nao.ac.jp/en/), Mitaka, Tokyo, Japan. Host: Prof. [Patricio Sanhueza](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/index.html) and Prof. [Fumitaka Nakamura](http://th.nao.ac.jp/MEMBER/nakamrfm/indexe.html).  
+特任研究员(博士后)，[日本国立天文台 (NAOJ)](https://www.nao.ac.jp/en/)，日本东京都三鹰市，合作教授：[帕特里西奥·萨纽埃萨](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/index.html) 和 [中村文隆](http://th.nao.ac.jp/MEMBER/nakamrfm/index.html)。
 * 2021.06 - 2023.09  
 EAO Fellow (postdoc), [East Asian Observatory (EAO)](https://www.eaobservatory.org/), Hilo, Hawaii, USA.  
 EAO学者(博士后)，[东亚天文台 (EAO)](https://www.eaobservatory.org/)，美国夏威夷大岛希洛镇。
@@ -32,17 +35,17 @@ Undergraduate exchange student, The University of Sydney, Sydney, Australia
 
 ### Education/学历
 * 2015.09 - 2021.03  
-Ph.D. in Astronomy, [Nanjing University](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, P.R. China. Supervisor: Prof. [Keping Qiu](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113710.html).  
+Ph.D. in Astronomy, [Nanjing University](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, China. Supervisor: Prof. [Keping Qiu](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113710.html).  
 天文学博士，[南京大学](https://astronomy.nju.edu.cn)，江苏省南京市，导师：[邱科平](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13834.html)教授
 * 2011.09 - 2015.06  
-B.S. in Astronomy, Nanjing University, Nanjing, Jiangsu, P.R. China.  
+B.S. in Astronomy, Nanjing University, Nanjing, Jiangsu, China.  
 天文学学士，南京大学，江苏省南京市
 * 2007.09 - 2011.06  
-Chongqing No.8 Middle School, Chongqing, P.R. China.  
+Chongqing No.8 Middle School, Chongqing, China.  
 重庆八中，重庆市
 * 2005.09 - 2007.06  
-Dianjiang Middle School, Dianjiang, Chongqing, P.R. China.  
+Dianjiang Middle School, Dianjiang, Chongqing, China.  
 垫江中学, 重庆市垫江县
 * 1999.09 - 2005.06  
-Pushun Primary School, Dianjiang, Chongqing, P.R. China.  
+Pushun Primary School, Dianjiang, Chongqing, China.  
 普顺小学, 重庆市垫江县
