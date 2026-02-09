@@ -13,7 +13,7 @@ redirect_from:
 
 ### Employment/工作经历
 * 2026.01 -  
-Assistant Professor (Tenure-Track), [Nanjing University](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, China.  
+Assistant Professor (tenure-track), [Nanjing University (NJU)](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, China.  
 助理教授(准聘)，[南京大学](https://astronomy.nju.edu.cn)，江苏省南京市。
 * 2023.09 - 2026.01  
 Project Researcher (postdoc), [National Astronomical Observatory of Japan (NAOJ)](https://www.nao.ac.jp/en/), Mitaka, Tokyo, Japan. Host: Prof. [Patricio Sanhueza](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/index.html) and Prof. [Fumitaka Nakamura](http://th.nao.ac.jp/MEMBER/nakamrfm/indexe.html).  
