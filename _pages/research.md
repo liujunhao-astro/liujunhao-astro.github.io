@@ -7,10 +7,22 @@ author_profile: true
 
 ## <ins>1.Observational studies of B fields in molecular clouds</ins>
 
+### Formation of massive star cluster seeds at 0.01 pc ([Liu et al. 2026](https://www.nature.com/articles/s41550-026-02873-y))
+
+In Liu et al. 2026, combining ALMA polarization survey and numerical investigations, we discovered that chaotic turbulence is more important than orderly magnetic field in shaping the seeds of massive star clusters at 0.01 pc.  
+在Liu et al. 2026中，我们通过大样本ALMA偏振观测与数值模拟结合，证实湍流而非磁场在约0.01 pc尺度上的大质量星团前身“种子”形成中起到了更重要的作用。
+
+<p align="center">
+  <img src="/images/N6334IN_press.png?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="/images/T10M6MU2t2_xy_press.png?raw=true" alt="Photo" style="width: 400px;"/> 
+</p>
+Examples of magnetic field structure in observations (left) and simulations (right).
+
+
 ### Initial condition of low-mass and high-mass star formation ([Liu et al. 2019]( https://ui.adsabs.harvard.edu/abs/2019ApJ...877...43L/abstract),[2020]( https://ui.adsabs.harvard.edu/abs/2020ApJ...895..142L/abstract), and [2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..120L/abstract))
 
-In Liu et al. 2020 and 2024, I studied the the multi-scale B of the massive infrared dark cloud (IRDC) G28.34+0.06 (the Dragon cloud) with dust polarization data from ALMA, JCMT, and Planck. These two studies reveal the role of B fields at different scales in an individual early-stage massive star formation region.  
-在Liu et al. 2020和2024中，我利用ALMA、JCMT、Planck的数据研究了一个处于大质量恒星形成早期阶段的红外暗云G28.34+0.06(又称龙分子云)的多尺度磁场。
+In Liu et al. 2020 and 2024, I studied the the multi-scale magnetic properties of the massive infrared dark cloud (IRDC) G28.34+0.06 (the Dragon cloud) with dust polarization data from ALMA, JCMT, and Planck. These two studies reveal the role of B fields at different scales in an individual early-stage massive star formation region.  
+在Liu et al. 2020和2024中，我利用ALMA、JCMT、Planck的数据揭示了一个处于大质量恒星形成早期阶段的红外暗云G28.34+0.06(又称龙分子云)的多尺度磁场性质。
 
 《來自星塵的暗龍》：黑暗之龍沉眠深紅星空，須彌微塵暗孕星火之原。打破吧，那磁場的鎖鏈；征服吧，那無序的湍流。光之意志自星骸中重生，藍白之星定閃耀銀河！ 
 "Dark Dragon from Dust": The dark dragon slumbers in the crimson sky, amidst the interstellar dust, harboring the origins of stellar fire. Breaking free from the chains of magnetic fields; conquering the chaotic turbulence. The will of light is reborn from the remnants of stars; the blue and white massive stars shall shine in the galaxy!  
@@ -61,7 +73,7 @@ Examples of the synthetic observation of our simulations. Line integral convolut
 ### A Compilation of All the DCF Estimations ([Liu et al. 2022a]( https://ui.adsabs.harvard.edu/abs/2022ApJ...925...30L/abstract))
 
 I collected all the DCF estimations of B strength from polarized dust emission observations in the literature (230 estimations from 75 papers) and corrected them with numerical results (Liu et al. 2021). The statistical study systematically reveals the general property of B fields in star formation regions, which is instructive for the future development of star formation theories.  
-我整理收集了所有历史文献里利用DCF方法测量的恒星形成区的磁场强度，并系统性地研究了磁场的一般统计性质。
+我整理收集了所有历史文献里利用DCF方法测量的恒星形成区的磁场强度，并系统性地探讨了磁场的一般统计性质。
 
 <p align="center">
   <img src="/images/lambBtot_Ncol_instru0_method0.png?raw=true" alt="Photo" style="width: 540px;"/> 

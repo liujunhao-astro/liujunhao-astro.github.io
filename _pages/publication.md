@@ -16,6 +16,8 @@ author_profile: true
 [ADS library (all)/ADS论文列表(全)](https://ui.adsabs.harvard.edu/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
 
 ### First-author or corresponding-author papers/一作或通讯论文
+11. "The dominance of turbulence over magnetism in the formation of massive star cluster seeds"
+**Liu, J.**; Sanhueza, P.; and 33 coauthors; **2026**, Nature Astronomy
 10. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"  
 **Liu, J.**; Zhang, Q.; and 15 coauthors; **2024**, ApJ, 966, 120
 9. "Magnetic Fields in the Central Molecular Zone Influenced by Feedback and Weakly Correlated with Star Formation"  

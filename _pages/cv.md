@@ -22,16 +22,10 @@ Project Researcher (postdoc), [National Astronomical Observatory of Japan (NAOJ)
 EAO Fellow (postdoc), [East Asian Observatory (EAO)](https://www.eaobservatory.org/), Hilo, Hawaii, USA.  
 EAO学者(博士后)，[东亚天文台 (EAO)](https://www.eaobservatory.org/)，美国夏威夷大岛希洛镇。
 
-### Visiting Experience/访问经历
+### Academic Experience/学术经历
 * 2018.08 - 2021.05  
 SAO pre-doctoral Fellow, [Center for Astrophysics (CfA) \| Harvard & Smithsonian](https://www.cfa.harvard.edu), Cambridge, Massachusetts, USA. Supervisor: Dr. [Qizhou Zhang](https://lweb.cfa.harvard.edu/~qzhang/).  
 SAO博士前访问学者(联合培养博士)，[哈佛-史密松森天体物理中心 (CfA)](https://www.cfa.harvard.edu)，美国麻萨诸塞州剑桥市(波士顿地区)，导师：[张其洲](https://lweb.cfa.harvard.edu/~qzhang/)研究员。
-* 2019.06  
-Visitor, The French Alternative Energies and Atomic Energy Commission (CEA)-Saclay, Saclay, Paris, France  
-访问者，法国原子能和替代能源委员会(CEA)萨克雷中心，法国巴黎萨克雷
-* 2014.07 - 2014.08  
-Undergraduate exchange student, The University of Sydney, Sydney, Australia  
-本科交换生，悉尼大学，澳大利亚悉尼
 
 ### Education/学历
 * 2015.09 - 2021.03  
