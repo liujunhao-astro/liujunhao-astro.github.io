@@ -12,7 +12,7 @@ redirect_from:
 [Full version. 完全版](/files/LiuJunHao_CV.pdf)
 
 ### Employment/工作经历
-* 2026.01 -  
+* 2026.01 - now  
 Assistant Professor (tenure-track), [Nanjing University (NJU)](https://astronomy.nju.edu.cn/EN/index.html), Nanjing, Jiangsu, China.  
 助理教授(准聘)，[南京大学](https://astronomy.nju.edu.cn)，江苏省南京市。
 * 2023.09 - 2026.01  
