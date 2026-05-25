@@ -18,7 +18,7 @@ author_profile: true
 ### First-author or corresponding-author papers/一作或通讯论文
 11. "The dominance of turbulence over magnetism in the formation of massive star cluster seeds"  
 **Liu, J.**; Sanhueza, P.; and 33 coauthors; **2026**, **Nature Astronomy**  
-新闻报道：[南京大学](https://astronomy.nju.edu.cn/twdt/xwdt/20260522/i392552.html)，[日本国立天文台+ALMA](https://alma-telescope.jp/news/mscseeds-202605.html)  
+新闻报道：[南京大学](https://astronomy.nju.edu.cn/twdt/xwdt/20260522/i392552.html)，[日本国立天文台+ALMA](https://alma-telescope.jp/news/mscseeds-202605.html), [科学网(小柯物理)](https://mp.weixin.qq.com/s/31S0Vmd5l-ezQfo-FifjNA)  
 Press Release: [Nanjing University](https://astronomy.nju.edu.cn/EN/NewsEvents/20260522/i392609.html), [NAOJ+ALMA](https://alma-telescope.jp/en/news/mscseeds-202605.html) 
 10. "Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments"  
 **Liu, J.**; Zhang, Q.; and 15 coauthors; **2024**, ApJ, 966, 120
@@ -35,7 +35,8 @@ Lu, X.\*; **Liu, J.\***; and 15 coauthors; **2024**, ApJ, 962, 39
 4. "Calibrating the Davis-Chandrasekhar-Fermi Method with Numerical Simulations: Uncertainties in Estimating the Magnetic Field Strength from Statistics of Field Orientations"  
 **Liu, J.**; Zhang, Q.; Commercon, B.; Valdivia, V.; Maury, A.; and Qiu, K.; **2021**, ApJ, 919, 79
 3. "Magnetic Fields in the Early Stages of Massive Star Formation as Revealed by ALMA"  
-**Liu, J.**; Zhang, Q.; Qiu, K.; and 5 coauthors; **2020**, ApJ, 895, 142
+**Liu, J.**; Zhang, Q.; Qiu, K.; and 5 coauthors; **2020**, ApJ, 895, 142  
+Press Release: [CfA](https://www.cfa.harvard.edu/news/magnetic-fields-early-stages-massive-star-formation) 
 2. "The JCMT BISTRO Survey: The Magnetic Field in the Starless Core $\rho$ Ophiuchus C"  
 **Liu, J.**; Qiu, K.; and 129 coauthors; **2019**, ApJ, 877, 43
 1. "An Isothermal Outflow in High-mass Star-forming Region G240.31+0.07"  

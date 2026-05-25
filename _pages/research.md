@@ -16,8 +16,10 @@ In Liu et al. 2026, combining ALMA polarization survey and numerical investigati
   <img src="/images/N6334IN_press.png?raw=true" alt="Photo" style="width: 400px;"/> 
   <img src="/images/T10M6MU2t2_xy_press.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
-Examples of magnetic field structure in observations (left) and simulations (right).
+Figure: Examples of magnetic field structure in observations (left) and simulations (right). 
 
+新闻报道：[南京大学](https://astronomy.nju.edu.cn/twdt/xwdt/20260522/i392552.html)，[日本国立天文台+ALMA](https://alma-telescope.jp/news/mscseeds-202605.html), [科学网(小柯物理)](https://mp.weixin.qq.com/s/31S0Vmd5l-ezQfo-FifjNA)  
+Press Release: [Nanjing University](https://astronomy.nju.edu.cn/EN/NewsEvents/20260522/i392609.html), [NAOJ+ALMA](https://alma-telescope.jp/en/news/mscseeds-202605.html) 
 
 ### Initial condition of low-mass and high-mass star formation ([Liu et al. 2019]( https://ui.adsabs.harvard.edu/abs/2019ApJ...877...43L/abstract),[2020]( https://ui.adsabs.harvard.edu/abs/2020ApJ...895..142L/abstract), and [2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..120L/abstract))
 
@@ -31,8 +33,9 @@ In Liu et al. 2020 and 2024, I studied the the multi-scale magnetic properties o
   <img src="/images/g28_planck_jcmt.png?raw=true" alt="Photo" style="width: 400px;"/> 
   <img src="/images/g28mm4_alma.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
-Left: Magnetic field orientations of the Dragon cloud G28.34+0.06 revealed by Planck (orange lines) and JCMT (white lines) overlaid on the Spitzer three-color image (red/green/blue = 8.0/4.5/3.6). Right: B of clump MM4 in G28.34 revealed by ALMA.  
+Figure: Left: Magnetic field orientations of the Dragon cloud G28.34+0.06 revealed by Planck (orange lines) and JCMT (white lines) overlaid on the Spitzer three-color image (red/green/blue = 8.0/4.5/3.6). Right: B of clump MM4 in G28.34 revealed by ALMA.  
 
+Press Release: [CfA](https://www.cfa.harvard.edu/news/magnetic-fields-early-stages-massive-star-formation) 
 
 In Liu et al. 2019, I investigated the B field properties in the low-mass starless core Ophiuchus C (in early low-mass star formation) using dust polarization observations from JCMT.  
 在Liu et al. 2019中，我利用JCMT的观测数据研究了一个处于小质量恒星形成早期阶段的无星云核Ophiuchus C的磁场性质。
@@ -53,7 +56,7 @@ Using dust polarization data from ALMA, JCMT, and Planck, I investigated the mul
     <img src="/images/N6334IV_cb_mk_B.png?raw=true" alt="Photo" style="width: 240px;"/> 
   <img src="/images/N6334V_cb_mk_B.png?raw=true" alt="Photo" style="width: 240px;"/> 
 </p>
-Magnetic field orientations (line segments) overlaid on the dust emission map (colorscales) in NGC 6334 from Planck, JCMT, and ALMA.
+Figure: Magnetic field orientations (line segments) overlaid on the dust emission map (colorscales) in NGC 6334 from Planck, JCMT, and ALMA.
 
 ## <ins>2.Numerical study of analysis methods used to interpret B fields</ins>
 
@@ -65,7 +68,7 @@ We conducted a numerical study using a series of 3D magnetohydrodynamic (MHD) an
 <p align="center">
   <img src="/images/Simu_LIC.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
-Examples of the synthetic observation of our simulations. Line integral convolution map shows the magnetic field orientation. Colorscales indicate the dust emission. 
+Figure: Examples of the synthetic observation of our simulations. Line integral convolution map shows the magnetic field orientation. Colorscales indicate the dust emission. 
 
 ## <ins>3.Review of B field studies in the literature</ins>
 
@@ -78,7 +81,7 @@ I collected all the DCF estimations of B strength from polarized dust emission o
 <p align="center">
   <img src="/images/lambBtot_Ncol_instru0_method0.png?raw=true" alt="Photo" style="width: 540px;"/> 
 </p>
-Normalized mass-to-flux ratio (gravitational-to-magnetic ratio) as a function of gas column density. 
+Figure: Normalized mass-to-flux ratio (gravitational-to-magnetic ratio) as a function of gas column density. 
 
 
 ### A review of statistical methods used to study magnetic field properties ([Liu et al. 2022b]( https://ui.adsabs.harvard.edu/abs/2022FrASS...9.3556L/abstract))
