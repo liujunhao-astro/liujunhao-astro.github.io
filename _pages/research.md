@@ -9,7 +9,7 @@ author_profile: true
 
 ### Formation of massive star cluster seeds at 0.01 pc ([Liu et al. 2026](https://www.nature.com/articles/s41550-026-02873-y))
 
-In Liu et al. 2026, combining ALMA polarization survey and numerical investigations, we discovered that chaotic turbulence is more important than orderly magnetic field in shaping the seeds of massive star clusters at 0.01 pc.  
+In Liu et al. 2026, combining ALMA polarization survey and numerical investigations, we discovered that chaotic turbulence is more important than orderly magnetic fields in shaping the seeds of massive star clusters at 0.01 pc.  
 在Liu et al. 2026中，我们通过大样本ALMA偏振观测与数值模拟结合，证实湍流而非磁场在约0.01 pc尺度上的大质量星团前身“种子”形成中起到了更重要的作用。
 
 <p align="center">
@@ -17,6 +17,11 @@ In Liu et al. 2026, combining ALMA polarization survey and numerical investigati
   <img src="/images/T10M6MU2t2_xy_press.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 Figure: Examples of magnetic field structure in observations (left) and simulations (right). 
+
+<p align="center">
+  <img src="/images/Extfig_schem.png?raw=true" alt="Photo" style="width: 400px;"/>
+</p>
+Figure: Schematic view of compact structure formation.
 
 新闻报道：[南京大学](https://astronomy.nju.edu.cn/twdt/xwdt/20260522/i392552.html)，[日本国立天文台+ALMA](https://alma-telescope.jp/news/mscseeds-202605.html), [科学网(小柯物理)](https://mp.weixin.qq.com/s/31S0Vmd5l-ezQfo-FifjNA)  
 Press Release: [Nanjing University](https://astronomy.nju.edu.cn/EN/NewsEvents/20260522/i392609.html), [NAOJ+ALMA](https://alma-telescope.jp/en/news/mscseeds-202605.html) 
