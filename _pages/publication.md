@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-[ADS library (First-author or corresponding-author)/ADS论文列表(第一作者或通讯作者)](https://ui.adsabs.harvard.edu/public-libraries/BHaOyBG7Q-C6tUacIfbv3Q)
+[ADS library (First-author or corresponding-author)/ADS论文列表(第一作者或通讯作者)](https://scixplorer.org/public-libraries/BHaOyBG7Q-C6tUacIfbv3Q)
 
-[ADS library (all)/ADS论文列表(全)](https://ui.adsabs.harvard.edu/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
+[ADS library (all)/ADS论文列表(全)](https://scixplorer.org/public-libraries/NMQGgqroSeurMcPVsgLiqQ)
 
 ### First-author or corresponding-author papers/一作或通讯论文
 11. "The dominance of turbulence over magnetism in the formation of massive star cluster seeds"  

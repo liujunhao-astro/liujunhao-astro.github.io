@@ -19,7 +19,7 @@ In Liu et al. 2026, combining ALMA polarization survey and numerical investigati
 Figure: Examples of magnetic field structure in observations (left) and simulations (right). 
 
 <p align="center">
-  <img src="/images/Extfig_schem.png?raw=true" alt="Photo" style="width: 400px;"/>
+  <img src="/images/Extfig_schem.png?raw=true" alt="Photo" style="width: 800px;"/>
 </p>
 Figure: Schematic view of compact structure formation.
 
