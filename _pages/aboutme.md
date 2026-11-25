@@ -24,7 +24,7 @@ To the stars through our journey
 
 ### Memory/拾忆
 <p align="center">
-  <img src="/images/nanjing.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="/images/nanjing.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 <p style="text-align: center;">
 Back to Nanjing. 回到熟悉而亲切的南京。
